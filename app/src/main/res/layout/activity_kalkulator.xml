@@ -78,7 +78,7 @@
             android:id="@+id/hsl"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:text="Hasil" />
+            android:textSize="50sp"
+            android:text="" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
