@@ -17,6 +17,9 @@
             android:exported="false" />
         <activity
             android:name=".vinolaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KalkulatorActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.VinolaApp">
